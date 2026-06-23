@@ -244,9 +244,6 @@ https://image.tmdb.org/t/p/w500/abc.jpg
 ```text
 TMDB API URL:
 https://tmdb.example.com
-
-TMDB Image URL:
-https://tmdb.example.com
 ```
 
 ---
